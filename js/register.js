@@ -6,4 +6,12 @@ $(document).ready(function () {
 
     });
 
+   $('#verification').click(function (){
+       $.ajax({
+           url:'',
+           data:
+       })
+      
+   });
+
 });
