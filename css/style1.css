@@ -1,8 +1,8 @@
 body{
     width: auto;
-    margin: 2em;
-    border: 3em;
-    padding: 3em;
+    border: 0em;
+    margin: 0cm;
+   
 }
 
 #welcome{
@@ -78,39 +78,30 @@ body{
 }
 
 .regTop{
-    width: 50%;
+    width: 100%;
     text-align: center;
     padding: 3% 0% 3% 0%;
     font-size: 1.2em;
     background: #00923f;
     color: aliceblue;
     position: relative;
-    margin: 2em;
-    border: 5px solid red;
-    
 }
 
-.div1{
-    float: left;
-    width: 40%;
-    text-align: center;
-    padding: 3% 0% 3% 0%;
-    font-size: 1.2em;
-    background: #00923f;
-    color: aliceblue;
+
+.logo{
+    width: 100%;
+    padding: 10% 0% 10% 0%;
+    background: rgb(220, 238, 238);
     position: relative;
-    margin: 2em;
-    border: 5px solid red;
+    text-align: center;
+
 }
-.div2{
-    float: right;
-    width: 40%;
-    text-align: center;
-    padding: 3% 0% 3% 0%;
-    font-size: 1.2em;
-    background: #00923f;
-    color: aliceblue;
-    position: relative;
-    margin: 2em;
-    border: 5px solid red;
+
+.message input{
+    margin-left: 9%;
+    margin-right: 10%;
+    padding: 3%;
+    width: 75%;
+    background-color: aliceblue;
+    border: none;
 }
